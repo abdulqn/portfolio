@@ -15,20 +15,15 @@ This project involves analyzing NHS GP (General Practitioner) data to derive mea
 - Visualizations to identify trends
 - Statistical insights for healthcare improvements
 
-### 2. [Next Project Name](#)
-Description of your second project goes here.
-
-### 3. [Next Project Name](#)
-Description of your third project goes here.
 
 ---
 
 ## Skills & Tools
 
 - **Languages:** Python, SQL, JavaScript
-- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Flask, Django, TensorFlow
-- **Tools:** Git, Docker, Jupyter, VS Code, AWS
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, TensorFlow,
+- **Tools:** Git, Docker, Jupyter, AWS, QGIS, ArcGIS
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redshift
 
 ---
 
@@ -36,6 +31,4 @@ Description of your third project goes here.
 
 Feel free to reach out for any questions or collaborations:
 
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com)
-- GitHub: [Your GitHub](https://github.com/yourusername)
+- GitHub: [Your GitHub](https://github.com/abdulqn)
