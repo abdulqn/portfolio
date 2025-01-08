@@ -39,11 +39,4 @@ Feel free to reach out for any questions or collaborations:
 
 ---
 
-<style>
-  img {
-    border-radius: 50%;
-    width: 120px;  /* Adjust size here */
-    height: 120px;  /* Adjust size here */
-    border: 3px solid #333;  /* Adds a border around the image */
-  }
-</style>
+<img src="https://github.com/abdulqn/portfolio/blob/84163171c70d097e6fd915dc23f276acebc786ff/assets/images/logo_github.png" alt="Profile Image" width="120" height="120" style="border-radius: 50%; border: 3px solid #333;">
