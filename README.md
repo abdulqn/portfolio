@@ -1,9 +1,41 @@
-# portfolio
+# My Python Portfolio
 
-![histogram](assets/images/histogram.png)
+Welcome to my Python portfolio! Here you'll find a collection of my Python projects, demonstrating my skills in data science, web development, automation, and more. Below is a list of my works, with links to their respective repositories or notebooks.
 
-# Heading 1
+---
 
-## Heading 2
+## Projects
 
-### Heading 3
+### 1. [NHS GP Data Analysis](https://github.com/abdulqn/portfolio/blob/a71d795b4df4af3d1fa344af3e70801f784b8877/nhs_gp.ipynb)
+This project involves analyzing NHS GP (General Practitioner) data to derive meaningful insights. I used Python libraries such as Pandas, Matplotlib, and Seaborn for data manipulation and visualization. The analysis explores various healthcare data points and provides useful metrics for understanding patient statistics.
+
+**Key Features:**
+- Data wrangling and cleaning
+- Exploratory Data Analysis (EDA)
+- Visualizations to identify trends
+- Statistical insights for healthcare improvements
+
+### 2. [Next Project Name](#)
+Description of your second project goes here.
+
+### 3. [Next Project Name](#)
+Description of your third project goes here.
+
+---
+
+## Skills & Tools
+
+- **Languages:** Python, SQL, JavaScript
+- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Flask, Django, TensorFlow
+- **Tools:** Git, Docker, Jupyter, VS Code, AWS
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
+---
+
+## Contact
+
+Feel free to reach out for any questions or collaborations:
+
+- Email: your-email@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com)
+- GitHub: [Your GitHub](https://github.com/yourusername)
