@@ -36,3 +36,12 @@ This project involves analyzing NHS GP (General Practitioner) data to derive mea
 Feel free to reach out for any questions or collaborations:
 
 - GitHub: [Your GitHub](https://github.com/abdulqn)
+
+<style>
+  img {
+    border-radius: 50%;
+    width: 120px;  /* Adjust size here */
+    height: 120px;  /* Adjust size here */
+    border: 3px solid #333;  /* Adds a border around the image */
+  }
+</style>
