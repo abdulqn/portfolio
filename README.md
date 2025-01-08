@@ -1,4 +1,3 @@
-# My Python Portfolio
 
 Welcome to my Python portfolio! Here you'll find a collection of my Python projects, demonstrating my skills in data science, web development, automation, and more. Below is a list of my works, with links to their respective repositories or notebooks.
 
