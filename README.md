@@ -4,10 +4,6 @@ Welcome to my Python portfolio! Here you'll find a collection of my Python proje
 
 ---
 
-<img src="https://github.com/abdulqn/portfolio/blob/84163171c70d097e6fd915dc23f276acebc786ff/assets/images/logo_github.png" alt="Profile Image" width="120" height="120" style="border-radius: 50%; border: 3px solid #333;">
-
----
-
 ## Projects
 
 ### 1. [NHS GP Data Analysis](https://github.com/abdulqn/portfolio/blob/a71d795b4df4af3d1fa344af3e70801f784b8877/nhs_gp.ipynb)
