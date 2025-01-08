@@ -4,7 +4,7 @@ Welcome to my Python portfolio! Here you'll find a collection of my Python proje
 
 ---
 
-## ![Profile Image](https://github.com/abdulqn/portfolio/blob/84163171c70d097e6fd915dc23f276acebc786ff/assets/images/logo_github.png)
+<img src="https://github.com/abdulqn/portfolio/blob/84163171c70d097e6fd915dc23f276acebc786ff/assets/images/logo_github.png" alt="Profile Image" width="120" height="120" style="border-radius: 50%; border: 3px solid #333;">
 
 ---
 
@@ -38,5 +38,3 @@ Feel free to reach out for any questions or collaborations:
 - GitHub: [Your GitHub](https://github.com/abdulqn)
 
 ---
-
-<img src="https://github.com/abdulqn/portfolio/blob/84163171c70d097e6fd915dc23f276acebc786ff/assets/images/logo_github.png" alt="Profile Image" width="120" height="120" style="border-radius: 50%; border: 3px solid #333;">
