@@ -37,6 +37,8 @@ Feel free to reach out for any questions or collaborations:
 
 - GitHub: [Your GitHub](https://github.com/abdulqn)
 
+---
+
 <style>
   img {
     border-radius: 50%;
